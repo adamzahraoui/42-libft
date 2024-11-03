@@ -92,6 +92,4 @@ To compile the library and manage files, use the following commands in your term
 - `make fclean`: Removes object files and the `libft.a` library.
 - `make re`: Recompiles the library from scratch.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+## by AKIRA ~ adam zahraoui
